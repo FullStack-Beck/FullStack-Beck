@@ -15,8 +15,8 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1220px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<rect width="1220px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
 <tspan x="15" y="50">@@8#@@*8@@8:                       . . ,..,,,,....     </tspan>
 <tspan x="15" y="70">@8@@8@@##@@.                ,----:,.        .,::.       </tspan>
 <tspan x="15" y="90">8@#@@%%@@8-          ..,:::-==++++++-                   </tspan>
@@ -39,7 +39,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="430">8***+++===--:,.....  .:.::-=+-8##8,88##88#               </tspan>
 <tspan x="15" y="450">+=====---:::,,.        :+*8*8#8#88 88+#8+88##            </tspan>
 </text>
-<text x="550" y="30" fill="#c9d1d9">
+<text x="550" y="30" fill="#24292f">
 <tspan x="550" y="30">gabriel@beck</tspan> -———————————————————————————————————————————-—-
 <tspan x="550" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Android 16, Arch Linux</tspan>
 <tspan x="550" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">21 years, 2 months, 13 days</tspan>
